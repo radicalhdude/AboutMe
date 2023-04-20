@@ -47,9 +47,8 @@ __What are you__ in this life?
 ## Persons of Interest
 
 [Abraham Lincoln][1]<br>
-<img src="https://github.com/radicalhdude/AboutMe/blob/main/AbrahamLincoln.jpg" height="100px" width="100px">
+<img src="https://github.com/radicalhdude/AboutMe/blob/main/AbrahamLincoln.jpg" height="100px" width="100px"><br>
 [Elon Musk][2]<br>
-<img src="https://github.com/radicalhdude/AboutMe/blob/main/ElonMusk.webp" height="100px" width="100px">
-[Shohei Ohtani][3]<br>
+<img src="https://github.com/radicalhdude/AboutMe/blob/main/ElonMusk.webp" height="100px" width="100px"><br>
 
 Markdown Tutorial
