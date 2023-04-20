@@ -58,7 +58,7 @@ __What are you__ in this life?
 ## Terms
 
 | Terms |
-|-|
+|:-|
 | games |
 | art |
 | music |
