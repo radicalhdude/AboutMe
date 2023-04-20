@@ -57,11 +57,11 @@ __What are you__ in this life?
 
 ## Favorite Terms
 
-| Terms | Definitions |
-|:-| :----: |
-| video games | digital entertainment |
-| art | pleasing visual creations |
-| music | "organized sounds" |
-| books | readable entertainment |
+| Terms | Definitions | My Meanings |
+|:-| :----: | ---: |
+| video games | a game played by electronically manipulating images produced by a computer program. | digital entertainment |
+| art | the expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture. | pleasing visual creations |
+| music | vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion. | "organized sounds" |
+| books | a medium for recording information in the form of writing or images. | readable entertainment |
 
 Markdown Tutorial
