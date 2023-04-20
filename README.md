@@ -40,15 +40,16 @@ __What are you__ in this life?
 
 ## My Favorite Websites
 
-[Fun Website](https://www.google.com)
-[Cardinal Chatter](https://www.mlptraderumors.com/st-louis-cardinals "St. Louis Cardinals Rumors")
-[I'm Being Tagged][I have a NEW HOME]
+[Fun Website](https://www.google.com)<br>
+[Cardinal Chatter](https://www.mlptraderumors.com/st-louis-cardinals "St. Louis Cardinals Rumors")<br>
+[I'm Being Tagged][I have a NEW HOME]<br>
 
 ## Persons of Interest
 
 [Abraham Lincoln][1]<br>
 <img src="https://github.com/radicalhdude/AboutMe/blob/main/AbrahamLincoln.jpg" height="100px" width="100px">
 [Elon Musk][2]<br>
+<img src="" height="100px" width="100px">
 [Shohei Ohtani][3]<br>
 
 Markdown Tutorial
