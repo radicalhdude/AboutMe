@@ -55,13 +55,13 @@ __What are you__ in this life?
   <img src="https://github.com/radicalhdude/AboutMe/blob/main/ElonMusk.webp" height="200px" width="200px">
 </kbd><br>
 
-## Terms
+## Favorite Terms
 
-| Terms |
-|:-|
-| games |
-| art |
-| music |
-| books |
+| Terms | Definitions |
+|:-| ---- |
+| video games | digital entertainment
+| art | pleasing visual creations
+| music | "organized sounds"
+| books | readable entertainment
 
 Markdown Tutorial
