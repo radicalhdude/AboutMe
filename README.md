@@ -49,10 +49,10 @@ __What are you__ in this life?
 [Abraham Lincoln][1]<br>
 <kbd>
   <img src="https://github.com/radicalhdude/AboutMe/blob/main/AbrahamLincoln.jpg" height="200px" width="200px">
-  <kbd><br>
+<kbd><br>
 [Elon Musk][2]<br>
 <kbd>
   <img src="https://github.com/radicalhdude/AboutMe/blob/main/ElonMusk.webp" height="200px" width="200px">
-  <kbd><br>
+<kbd><br>
 
 Markdown Tutorial
