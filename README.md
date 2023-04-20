@@ -47,7 +47,7 @@ __What are you__ in this life?
 ## Persons of Interest
 
 [Abraham Lincoln][1]<br>
-![Lincoln]()
+![Lincoln](https://github.com/radicalhdude/AboutMe/blob/main/AbrahamLincoln.jpg)
 [Elon Musk][2]<br>
 [Shohei Ohtani][3]<br>
 
