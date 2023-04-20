@@ -58,10 +58,10 @@ __What are you__ in this life?
 ## Favorite Terms
 
 | Terms | Definitions |
-|:-| ---- |
-| video games | digital entertainment
-| art | pleasing visual creations
-| music | "organized sounds"
-| books | readable entertainment
+|:-| :----: |
+| video games | digital entertainment |
+| art | pleasing visual creations |
+| music | "organized sounds" |
+| books | readable entertainment |
 
 Markdown Tutorial
