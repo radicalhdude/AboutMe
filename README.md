@@ -55,4 +55,13 @@ __What are you__ in this life?
   <img src="https://github.com/radicalhdude/AboutMe/blob/main/ElonMusk.webp" height="200px" width="200px">
 </kbd><br>
 
+## Terms
+
+| Terms |
+|-|
+| games |
+| art |
+| music |
+| books |
+
 Markdown Tutorial
