@@ -7,6 +7,10 @@
 
 My name is Hudson Mayes. I'm a high school student that enjoys playing video games and designing things all on my own. I'm not the best at anything I do, but if I put enough effort into something, I can get really good at it. 
 
+[1]: https://en.wikipedia.org/wiki/Abraham_Lincoln
+[2]: https://en.wikipedia.org/wiki/Elon_Musk
+[3]: https://en.wikipedia.org/wiki/Shohei_Ohtani
+
 Hobbies
 -
 
@@ -42,6 +46,8 @@ __What are you__ in this life?
 
 ## Persons of Interest
 
-
+[Abraham Lincoln][1]<br>
+[Elon Musk][2]<br>
+[Shohei Ohtani][3]<br>
 
 Markdown Tutorial
